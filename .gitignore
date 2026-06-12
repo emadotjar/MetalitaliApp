@@ -1,0 +1,6 @@
+# Firebase service account keys (see SETUP.md step 8)
+service-account.json
+*.json.key
+
+# macOS
+.DS_Store
